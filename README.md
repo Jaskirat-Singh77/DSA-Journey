@@ -13,3 +13,4 @@ Day 2 <br>
 Kth node from end<br>
 Reverse a DLL<br>
 Merge 2 sorted list<br>
+Delete a node in DLL<br>
